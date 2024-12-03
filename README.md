@@ -1,0 +1,1 @@
+The Pig Game is a simple dice game that is often used to teach basic probability and decision-making strategies. It's typically played with one or more players. Here's an outline of the game's rules and how it is played:
